@@ -1,8 +1,8 @@
 # Chapter 1
-Intro to Chapert 1
+This is the chapter 1 thein version and will explain some stuff here.
 
-## Section 1.1
-Description
+## Section 1.1 - Intro to Roche Methods
+Roche metheod is simply some stuffs that I don't even understand.
 
-## Section 1.2
-Please add the description here
+## Section 1.2 - Marley Vs. iput
+Marley is smart and greedy. iput is dumb and loyal. iput like to take a walk in the evening.
